@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi 👋 I'm Shamit
 
-<!--
-**shamitmoolya/shamitmoolya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year CSE (AI/ML) student at APSIT, Thane  
+💻 Learning Python, Web Development, and AI fundamentals  
+🚀 Interested in building projects and growing step by step  
 
-Here are some ideas to get you started:
+🔭 Currently working on:
+- Python basics
+- HTML, CSS & JavaScript
+- Git & GitHub fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me on LinkedIn
+
