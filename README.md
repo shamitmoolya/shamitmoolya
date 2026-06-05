@@ -9,5 +9,6 @@ Hi 👋 I'm Shamit
 - HTML, CSS & JavaScript
 - Git & GitHub fundamentals
 
-📫 Connect with me on LinkedIn
+📫 Connect with me on LinkedIn:
+    www.linkedin.com/in/smoolya
 
