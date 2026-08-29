@@ -37,15 +37,6 @@ Hi 👋 I'm Shamit
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamitmoolya&show_icons=true&theme=dark" alt="Shamit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamitmoolya&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smoolya)
